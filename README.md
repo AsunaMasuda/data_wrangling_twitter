@@ -1,5 +1,5 @@
 ## Wrangle and Analyze Twitter Data 
-Data Cleaning, Analying and Visualization, using the tweet archive of Twiitter user @dog_rates also known as WeRateDogs.
+Data cleaning, analysis and visualization, using the tweet archive of Twiitter user @dog_rates also known as WeRateDogs.
 
 ## Description
 I analysed this tweet archive data by following steps. 
